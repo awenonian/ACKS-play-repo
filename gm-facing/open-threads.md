@@ -1,43 +1,30 @@
 # Open Threads
 
-*Surface these only in a lull. Do not append a status report to the end of turns.*
+*Surface only in a lull. Never append a status report to the end of a turn.*
 
-## Live now
-- **The debt.** 120gp to Vitte Sarn, due market-day, 12 days out. Teodor has 1gp.
-- **The grey cloth.** 30 bolts in Sarn's warehouse. Unsellable in the province.
-- **The Cistern job.** Korvane's offer, unhaggled at 60gp.
+## Immediate — next session opens here
+- **Return to the Cistern** with the festival-issue. Grett is expecting a *rite*, not a meal.
+- **Move twelve goblins to Verrin's Drift** — which is north-west, and they are south, and
+  the route passes Tellys Ford. Teodor has already flagged this as "a problem for later."
+- **520gp** still on a saddle blanket in the head tank. Not XP until it reaches a settlement.
+- **The milestone.** Rubbing, then deface. He has grey cloth and needs charcoal and a chisel.
 
-## Planted, not yet pulled
-- "No further need." — the cancellation note's three words.
-- SARRU-KALYX — XI, on the reused milestone in the cistern wall (if found).
-- "The hungry hill" — the goblins' phrase (if they're talked to rather than killed).
+## Standing
+- **Kalyx Gate can't pay.** Teodor worked this out himself. Any grey-cloth plan needs to
+  discover what the fort *can* trade — salvage, horses, or a prefect's paper.
+- **Nikkos Varr** left the door open and did not push. His father is Varr the tanner.
+  Succession candidate.
+- **Kestrin** believes the goblins were driven off. Hoyt has said plainly this will come out.
+- **Doret Kell** is owed an answer: the mark hasn't moved, the floor rose three feet.
+  She also has a brother's bones down past the second run.
+- **The four scouts** came back to a changed world and there was "a short argument. It ends."
+  Somebody in that band was not happy. Unresolved on purpose.
 
-## Dormant
-- Korvane is raising a private company. Nobody has asked why.
-- Nikkos Varr, 15, wants to see a ruin. Succession candidate.
+## Reactions
+Korvane **Friendly** · Grett's band **Friendly** · Merrow's taproom **Neutral** ·
+Doret **Neutral** · Vurro warm-ish, transactional
 
----
-
-## After night one at the Cistern
-
-**Resolved**
-- Road cleared without a blow struck. Goblins Friendly, fed, instructed to stop raiding.
-- Paychest found — 620gp. The goblins had been starving on top of it for five weeks
-  because a coin is only a promise that someone will trade with you.
-- Vess Kestrin recovered. Died of a fall and four days of cold. They gave him water and
-  not food, laid him out straight, and covered him with a stolen blanket.
-- The milestone read: **SARRU-KALYX — XI.** Teodor clocked that *sarru* means lord/king
-  and that you don't carve a man onto a milestone unless the road ends at him. Filed as
-  a curiosity. He does not know what it is.
-- Doret's question answered: the mark hasn't moved, the floor has. Three feet of silt.
-
-**Live**
-- **Kestrin.** Teodor intends to tell him the boy died of a fall, which is true, and to
-  not mention that the goblins live, which is an omission he is choosing.
-- **Korvane.** To be told the truth and asked to help build the story. Hoyt possibly
-  promoted to keep him close.
-- **Hoyt.** Will volunteer nothing; will not lie if asked direct. Get to her first.
-- **The secret's clock.** Clearing the road puts carters back on it daily, within a few
-  hundred yards of twelve goblins. The job and the secret are in direct conflict.
-- **The festival-issue.** Teodor promised a rite without meaning to. Grett noticed.
-- **The grey cloth.** Still thirty bolts. Still unsold. He intends to take it to a fort.
+## Long fuse
+- Korvane is raising a private company and now has a favour owed by a man with twelve goblins.
+- Teodor is understood by the band as a *holder*. He has never corrected it.
+- The *festival-issue* promise carries religious weight he didn't intend.

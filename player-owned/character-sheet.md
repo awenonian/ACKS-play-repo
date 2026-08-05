@@ -4,7 +4,7 @@
 in rules-prescribed ways (marking damage, spending money, ticking off consumables).*
 
 **Venturer 1 — "Tinker"** · Human, male, age 24 · Borderlands-born · **Neutral**
-Man-sized, 15 stone · XP **0** / 1,500 to 2nd level · **+5% XP** (CHA 13–15 key attribute bonus)
+Man-sized, 15 stone · XP **231** / 1,500 to 2nd level · **+5% XP** (CHA 13–15 key attribute bonus)
 
 ---
 
@@ -122,7 +122,8 @@ tanned brown cloak
 **Kit:** backpack · large treasure sack · 50′ rope · tinderbox · lantern · small hammer ·
 12 iron spikes · flask of common oil · flask of military oil · waterskin · 1 week's iron rations
 
-**Coin: 1 gp**
+**Also:** small cart + grey draft mule (bought of Korvane for 1sp, papered) · heavy helm
+(given to Hoyt) · ~13gp of provisions for the band · small sack, barrel, decoy purse
 
 ---
 
@@ -149,10 +150,25 @@ tanned brown cloak
   spears. He has not corrected this. Note: forced servitude would set loyalty at −4;
   this is not that, yet.
 
-## Session 1 Tally (pending return to civilization)
+## Henchmen
 
-Treasure recovered: 620gp paychest + ~85gp in silt finds. Monsters defeated: none —
-twelve goblins *outsmarted*, which the rules count. XP divides on reaching civilization.
+**Hoyt** — 0th level, given outright by Korvane. AC 3 (leather + shield), spear, ~4 hp,
+Save F0, Morale −1, heavy helm (Enclosing: −1 surprise, −4 Listening, **+2 Mortal Wounds**).
+**110 XP.** At 500 XP he becomes 1st level in a class of the Judge's choosing.
+Nine years a carter. Will not lie to Korvane if asked direct. Asked to be asked.
+
+## Session 1 XP
+
+| Source | XP |
+|---|---|
+| Treasure brought to civilization (~155gp) | 155 |
+| Reward — the 120gp note struck | 120 |
+| 9 goblins + Grett, *outsmarted* | 55 |
+| **Total pool** | **330** |
+
+1.5 shares (Teodor 1, Hoyt ½). Teodor 220 **+5%** = **231**. Hoyt **110**.
+
+**Still uncollected: 520gp in the Cistern.** Not XP until it reaches a friendly settlement.
 
 ---
 
