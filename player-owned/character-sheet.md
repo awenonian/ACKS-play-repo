@@ -128,9 +128,31 @@ tanned brown cloak
 
 ## Obligations
 
-- **120 gp owed to Vitte Sarn**, factor, of Tellys Ford. Due market-day.
-- **30 bolts of grey wool broadcloth**, in Sarn's warehouse, bought on credit against an order
-  that was cancelled.
+- **120 gp note** — Korvane is buying it off Sarn (~95gp) and **strikes it in full** when the
+  south cut is open. The road is open. Not yet collected.
+- **30 bolts of grey wool broadcloth**, in Sarn's warehouse. Still unsold. Still grey.
+- **Hoyt comes home.** Korvane's second condition, stated plainly.
+
+## Wealth
+
+**Carried:** 100 gold suns · 3 Zaharan platinum · 11 Zaharan electrum
+**Cached in the Cistern head tank, under goblin guard:** 520 gold suns, 3 stone iron stock,
+3gp/22sp/~50cp in loose garrison coin
+**On the cart:** 1 stone iron stock, 2 stone scrap bronze, Antar's tack, a lead curse tablet
+
+## Standing Arrangements
+
+- **Grett's band** — 12 goblins (2 young) in the Cistern. Reaction **Friendly**. Fed once.
+  Promised the *festival-issue* on return, which is a heavier word than intended. Instructed
+  to take nothing from travellers until then.
+- Teodor has been understood, throughout, as a **holder** — an authority set above the
+  spears. He has not corrected this. Note: forced servitude would set loyalty at −4;
+  this is not that, yet.
+
+## Session 1 Tally (pending return to civilization)
+
+Treasure recovered: 620gp paychest + ~85gp in silt finds. Monsters defeated: none —
+twelve goblins *outsmarted*, which the rules count. XP divides on reaching civilization.
 
 ---
 
