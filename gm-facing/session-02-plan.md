@@ -81,9 +81,9 @@ The centrepiece. Eleven answer the name. Naff does not. Full treatment in
 which is the best information in the Borderlands and will sound like nothing.
 
 ### The 520gp
-Still on a saddle blanket in the head tank. Bulky — 520 gold suns is about 5 stone of coin.
-He has a cart. Carrying it to Tellys Ford earns the XP and invites the question of where a
-man got five stone of century-old Krysean garrison pay. Leaving it invites a different question.
+Still on a saddle blanket in the head tank. **520 coins = 0.52 stone** — it is not heavy, it
+is *conspicuous*. Carrying it to Tellys Ford earns the XP and invites the question of where a
+man got a sack of century-old Krysean garrison pay. Leaving it invites a different question.
 
 ### The milestone
 Rubbing with charcoal and grey cloth, then deface, was his stated plan. Let him do it. The
