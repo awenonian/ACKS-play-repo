@@ -114,6 +114,29 @@ Teodor's options and what they cost:
 
 - To be **placed**. They understand they are going somewhere. They do not know where.
 - To be **spent**, eventually. They are not naive about this. Grett is not naive about it.
-- Provisions: Teodor left roughly 13gp of food. **Six days of it left as of the 16th.**
-  After that they will take from the road again, because the road is what there is, and
-  Grett will not be able to stop them and will say so if asked.
+## Food state — corrected, authoritative
+
+On the night of the **14th** Teodor issued **his own week of iron rations** — 1 stone,
+everything he had on him — to twelve people who had been starving for five weeks. One stone
+is seven man-days, which at the goblin ration is about fourteen goblin-days, split twelve
+ways. **They ate it that night. All of it.** It was the first full meal any of them had had
+since the Waste and nobody was going to make it last.
+
+They have had nothing since but rats and what the silt gives up.
+
+**As of the morning of the 16th the band is Hungry** (−1 to attack throws, proficiency
+throws, and saving throws). They will be **underfed** by the 17th if nothing arrives.
+
+**Teodor knows this.** It is precisely why he spent 13gp on preserved food during the day of
+the funeral and why he is loading a cart this morning. It is not a gotcha and he should not
+be surprised by it.
+
+### What the 13gp bought — still on Teodor's cart, undelivered
+
+Salt pork, a hard sheep's-milk cheese, dried apple, a crock of pickled turnip.
+**Roughly 8 stone.** At the goblin ration that is about **ten days** for the band.
+It is preserved meat out of a barrel. *It is not the isinnat and Grett will know the
+difference the moment she sees it.*
+
+After it runs out they will take from the road again, because the road is what there is,
+and Grett will not be able to stop them and will say so plainly if asked.

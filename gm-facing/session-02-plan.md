@@ -13,8 +13,10 @@ him** in the road — seven legionaries in a stone mill — and let him find out
 to not walk into it. The horror-of-the-fort plot advances by *ordinary bitterness*, not by
 discovery.
 
-**The clock:** the band has six days of food. After that they rob the road again. Teodor
-knows this if he thinks about it; Grett will say it plainly if asked.
+**The clock is now.** The band ate Teodor's entire week of iron rations on the night of the
+14th and has had nothing for two days. **They are Hungry today and underfed tomorrow.** The
+13gp of preserved food is on his cart, bought yesterday for exactly this, undelivered.
+Everything he does in Tellys Ford this morning happens with that three miles south of him.
 
 **The chain:** the promise (isinnat) → the move (twelve goblins past a town of 400) →
 the destination (which is occupied).

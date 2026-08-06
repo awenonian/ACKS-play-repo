@@ -34,6 +34,20 @@ goblins took his boots and left him. It is not a murder and it should not be sof
 Gave it up grudgingly: stones out of the rubble, **in daylight**, and "jabbering — fast,
 high voices, weren't Auran and weren't Krysean."
 
+*(Authoritative, corrected:)* **Antar saw his own stolen mule-tack on Teodor's cart** when
+Teodor came back into Tellys Ford — at the same moment the town was looking at Vess Kestrin's
+body. He understood immediately that *we scared them off* was not the whole of it, because
+tack does not come home from bandits you scared off. **He said nothing.** Partly it would
+have been foul to press the man carrying a dead boy. Mostly Antar turned back at that arch
+himself and does not enjoy conversations that end up there.
+
+He has **not** written the tack off. He is waiting to be handed it, and he is getting a
+little less patient every day it doesn't happen, and he will not ask, because asking would
+mean saying out loud how he knows Teodor has it.
+
+Returning it costs nothing now. Not returning it sours a nine-year relationship slowly and
+without a scene, which is how those actually end.
+
 **Merrow** — publican. Not friendly, just professional. Wanted the temperature out of his
 room and paid for it with a name.
 
