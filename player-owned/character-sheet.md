@@ -156,6 +156,8 @@ tanned brown cloak
 Save F0, Morale −1, heavy helm (Enclosing: −1 surprise, −4 Listening, **+2 Mortal Wounds**).
 **110 XP.** At 500 XP he becomes 1st level in a class of the Judge's choosing.
 Nine years a carter. Will not lie to Korvane if asked direct. Asked to be asked.
+**Loyalty +2** — base 0, CHA +1, and +1 permanent from a Fanatic Loyalty result on the
+morning of the 16th, when he was offered a genuine way out and did not take it.
 
 ## Session 1 XP
 
