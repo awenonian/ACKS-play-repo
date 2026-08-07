@@ -20,7 +20,7 @@ as *kurummat* — an issue, in the Zaharan sense, from a holder to his people.
 | 8 | **Sesh** | Mother. Carries the infant. |
 | 9 | **Wek** | Has the best spear and knows it. |
 | 10 | **Dunn** | Lame in one foot. Cooks. |
-| 11 | **Pib** | Young, about six. Wearing Vess Kestrin's boots, badly stuffed with grass. |
+| 11 | **Pib** | Young, about six. Feet bound in rag and cord. *(Vess Kestrin's boots were taken by Teodor as* maddat *and went home with the body — Pib never had them. Correcting an earlier slip; also note the timeline, which forbids it: Hoyt was routed at the arch on the 6th, Vess did not go out until the 11th.)* |
 | 12 | — | Sesh's infant. **Unnamed. Goblins do not name a child until it walks.** |
 
 **Stats (all adults):** AC 2 (leather scraps; two have shields, AC 3) · Move 60′ ·
